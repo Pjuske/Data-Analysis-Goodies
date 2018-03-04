@@ -1,2 +1,2 @@
 # Data-Analysis-Goodies
-Code examples for som data analysis methods
+kNN, Best-K, Cross Validation, Centering, Normalization, Affine Linear Mapping, Splliting, Hypothesis Testing, Correlation, Boxplots, Scatterplots, Histograms, KMeans, Clustering, PCA, Logistic Regression
